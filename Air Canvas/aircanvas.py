@@ -4,7 +4,6 @@ import os
 import numpy as np
 import Trackinghandmod as htm
 
-
 folderpath="myoptions"
 mylist=os.listdir(folderpath)
 
