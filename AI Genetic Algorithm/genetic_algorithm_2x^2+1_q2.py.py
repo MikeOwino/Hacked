@@ -166,12 +166,7 @@ def bit_flip_mutation(chromosome,mutation_probability):
     return chromosome
 
 
-
-
-
-
 ############################### Main/Driver ##################################
-
 
 
 bestFitnessValue = -1
